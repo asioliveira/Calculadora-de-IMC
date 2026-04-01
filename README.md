@@ -1,4 +1,4 @@
-# Calculado de IMC - Indice de Massa Corporal 🧮
+# Calculadora de IMC - Indice de Massa Corporal 🧮
 
 ## Tecnologias utilizadas 
 Html
@@ -11,7 +11,7 @@ Abrir no navegador o Arquivo Index.html
 Colocar o nome
 Altura
 Peso
-e verificar o resultado
+Verificar o resultado
 
 ## Projeto de portifolio, desenvolvido para estudo das tecnologias citadas acima, não substitui, acompanhamento medico.
 
